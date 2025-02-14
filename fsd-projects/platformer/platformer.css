@@ -3,7 +3,8 @@ body {
 }
 
 canvas {
-  background-color: lightblue;
+  background-image: url("https://i.ytimg.com/vi/8B7o7GsrpXw/maxresdefault.jpg");
+  background-size: cover;
   margin: 20px;
 }
 
